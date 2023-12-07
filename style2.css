@@ -1,0 +1,40 @@
+body{
+    background-color:#FFA62B;
+    margin: 0 auto;
+    padding: 0 auto;
+    border: 0 auto;
+    font-size: 100%;
+}
+
+.container{
+margin: 0 auto;
+width: 30vw;
+background-color: #82C0CC;
+height: 30vh;
+margin-top: 180px;
+border-radius: 5px;
+}
+
+.container .inputs-Nome {
+    margin-left: 150px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.container .inputs-Senha {
+    margin-left: 150px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container button{
+    margin-left: 250px;
+    margin-top: 20px;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+}
